@@ -1,0 +1,8 @@
+FITNESS CASAL - INSTALACAO
+
+Para publicar no GitHub Pages: crie um repositorio, envie index.html, icon.svg, manifest.webmanifest e sw.js para a raiz, e habilite Settings > Pages > Deploy from branch > main /root. Use o endereco HTTPS publicado.
+
+Android Chrome: abra o site > menu > Adicionar a tela inicial / Instalar app.
+iPhone Safari: abra o site > Compartilhar > Adicionar a Tela de Inicio.
+
+ATENCAO: O GitHub Pages nao e privado. Os dados do aplicativo ficam salvos somente no aparelho e navegador; nao sao sincronizados. Exporte backups pelo menu Rotina. Não coloque dados medicos, fotos privadas ou senhas em arquivos hospedados publicamente.
